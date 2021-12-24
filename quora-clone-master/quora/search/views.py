@@ -3,7 +3,7 @@ from django.db.models import Q
 from django.contrib.auth.models import User
 from quora.questions.models import Question
 from django.contrib.auth.decorators import login_required
-
+#This comment is added to play around.
 
 def search(request):
     if 'q' in request.GET:
