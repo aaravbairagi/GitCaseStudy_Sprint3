@@ -6,7 +6,7 @@ from django.contrib.auth.decorators import login_required
 <<<<<<< HEAD
 #This is an updated comment.(Comment added to merge)
 =======
-#This comment is added to play around(updated comment).New Change
+#This comment is added to play around(updated comment).New change made for mergetool to work.
 >>>>>>> branch2
 
 def search(request):
